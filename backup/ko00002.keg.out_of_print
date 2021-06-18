@@ -1,0 +1,2755 @@
+A<b>Complex</b>
+B
+B  <b>Environmental information processing</b>
+C    ABC-2 type and other transport systems
+D      M00224  Fluoroquinolone transport system [PATH:map02010] [BR:ko02000]
+E        K16905
+E        K16906
+E        K16907
+D      M00249  Capsular polysaccharide transport system [PATH:map02010] [BR:ko02000]
+E        K09688
+E        K10107
+E        K09689
+D      M00250  Lipopolysaccharide transport system [PATH:map02010] [BR:ko02000]
+E        K09690
+E        K09691
+D      M00251  Teichoic acid transport system [PATH:map02010] [BR:ko02000]
+E        K09692
+E        K09693
+D      M00252  Lipooligosaccharide transport system [PATH:map02010] [BR:ko02000]
+E        K09694
+E        K09695
+D      M00253  Sodium transport system [PATH:map02010] [BR:ko02000]
+E        K09696
+E        K09697
+D      M00254  ABC-2 type transport system [BR:ko02000]
+E        K01992
+E        K01990
+D      M00255  Lipoprotein-releasing system [PATH:map02010] [BR:ko02000]
+E        K09808
+E        K09810
+D      M00256  Cell division transport system [PATH:map02010] [BR:ko02000]
+E        K09811
+E        K09812
+D      M00257  Hemin transport system [PATH:map02010] [BR:ko02000]
+E        K09813
+E        K09814
+D      M00258  Putative ABC transport system [BR:ko02000]
+E        K02004
+E        K02003
+D      M00259  Heme transport system [PATH:map02010] [BR:ko02000]
+E        K02195
+E        K02194
+E        K02193
+D      M00298  Multidrug/hemolysin transport system [PATH:map02010] [BR:ko02000]
+E        K11051
+E        K11050
+D      M00314  Bacitracin transport system [PATH:map02010 map02020] [BR:ko02000]
+E        K11632
+E        K11631
+D      M00315  Uncharacterized ABC transport system [PATH:map02020] [BR:ko02000]
+E        K11636
+E        K11635
+D      M00320  Lipopolysaccharide export system [PATH:map02010] [BR:ko02000]
+E        K07091
+E        K11720
+E        K06861
+D      M00583  Putative peptide transport system [PATH:map02010] [BR:ko02000]
+E        K16916
+E        K16917
+D      M00584  Acetoin utilization transport system [PATH:map02010] [BR:ko02000]
+E        K16918
+E        K16919
+E        K16920
+E        K16921
+D      M00634  Oleandomycin transport system [PATH:map02010] [BR:ko02000]
+E        K18233
+E        K18232
+D      M00731  Bacitracin transport system [PATH:map02010 map02020] [BR:ko02000]
+E        K19084
+E        K19083
+D      M00732  Cationic antimicrobial peptide transport system [PATH:map02010 map02020] [BR:ko02000]
+E        K19080
+E        K19079
+D      M00747  Bacitracin transport system [PATH:map02010] [BR:ko02000]
+E        K19310
+E        K19309
+D      M00762  Copper-processing system [PATH:map02010] [BR:ko02000]
+E        K19341
+E        K19340
+D      M00813  Lantibiotic transport system [PATH:map02010] [BR:ko02000]
+E        K20459
+E        K20460
+E        K20461
+D      M00817  Lantibiotic transport system [PATH:map02010] [BR:ko02000]
+E        K20491
+E        K20492
+E        K20494
+E        K20490
+D      M00858  Vi polysaccharide transport system [PATH:map02010] [BR:ko02000]
+E        K22921
+E        K22922
+E        K22923
+C    Bacterial secretion system
+D      M00325  alpha-Hemolysin/cyclolysin transport system [PATH:map02010 map03070] [BR:ko02044]
+E        K11004
+E        K11003
+E        K12340
+D      M00326  RTX toxin transport system [BR:ko02044]
+E        K12530
+E        K12531
+E        K12532
+E        K12340
+D      M00327  S-Layer protein transport system [BR:ko02044]
+E        K12533
+E        K12534
+E        K12535
+D      M00328  Hemophore/metalloprotease transport system [BR:ko02044]
+E        K12536
+E        K12537
+E        K12538
+D      M00329  Multiple protein transport system [BR:ko02044]
+E        K12539
+E        K12540
+D      M00330  Adhesin protein transport system [BR:ko02044]
+E        K12541
+E        K12542
+E        K12543
+D      M00331  Type II general secretion system [PATH:map03070] [BR:ko02044]
+E        K02453
+E        K02452
+E        K02455
+E        K02456
+E        K02457
+E        K02458
+E        K02459
+E        K02460
+E        K02461
+E        K02462
+E        K02454
+E        K02464
+E        K02654
+E        K02450
+E        K02451
+E        K02463
+E        K02465
+D      M00332  Type III secretion system [PATH:map03070] [BR:ko02044]
+E        K03224
+E        K22506
+E        K03226
+E        K22507
+E        K03227
+E        K22508
+E        K03228
+E        K22509
+E        K03229
+E        K22510
+E        K03230
+E        K03225
+E        K03223
+E        K04054
+E        K03222
+E        K22505
+E        K03220
+E        K03219
+E        K22504
+E        K03221
+E        K04057
+E        K04056
+E        K04053
+E        K04059
+E        K04058
+E        K22511
+D      M00333  Type IV secretion system [PATH:map03070] [BR:ko02044]
+E        K03199
+E        K03196
+E        K03198
+E        K03201
+E        K03203
+E        K03195
+E        K03194
+E        K03197
+E        K03200
+E        K03202
+E        K03204
+E        K03205
+D      M00334  Type VI secretion system [PATH:map03070] [BR:ko02044]
+E        K11902
+E        K11910
+E        K11911
+E        K11901
+E        K11900
+E        K11903
+E        K11897
+E        K11905
+E        K11919
+E        K11896
+E        K11895
+E        K11907
+E        K11904
+E        K11906
+E        K11893
+E        K11892
+E        K11891
+D      M00335  Sec (secretion) system [PATH:map03070] [BR:ko02044]
+E        K03072
+E        K03074
+E        K12257
+E        K03073
+E        K03075
+E        K22228
+E        K13301
+E        K03076
+E        K03210
+E        K03217
+E        K03070
+E        K03110
+E        K03071
+E        K03106
+D      M00336  Twin-arginine translocation (Tat) system [PATH:map03070] [BR:ko02044]
+E        K03116
+E        K03117
+E        K03118
+E        K03425
+D      M00339  RaxAB-RaxC type I secretion system [PATH:map04626] [BR:ko02044]
+E        K13408
+E        K13409
+E        K12340
+D      M00429  Competence-related DNA transformation transporter [BR:ko02044]
+E        K02237
+E        K02238
+E        K02240
+E        K02242
+E        K02245
+E        K02246
+E        K02247
+E        K02249
+E        K02243
+E        K02244
+E        K02236
+E        K02248
+E        K01493
+E        K02239
+E        K02241
+D      M00571  AlgE-type Mannuronan C-5-Epimerase transport system [BR:ko02044]
+E        K16300
+E        K16299
+E        K12340
+C    Drug efflux transporter/pump
+D      M00635  Tetracycline resistance, TetAB(46) transporter [PATH:map02010]
+E        K18216
+E        K18217
+D      M00706  Multidrug resistance, EfrAB transporter
+E        K18887
+E        K18888
+D      M00707  Multidrug resistance, SmdAB/MdlAB transporter
+E        K18889
+E        K18890
+D      M00708  Multidrug resistance, PatAB transporter
+E        K18891
+E        K18892
+D      M00710  Multidrug resistance, efflux pump EbrAB
+E        K11814
+E        K11815
+D      M00711  Multidrug resistance, efflux pump MdtIJ
+E        K11742
+E        K11743
+D      M00712  Multidrug resistance, efflux pump YkkCD
+E        K18924
+E        K18925
+D      M00720  Multidrug resistance, efflux pump VexEF-TolC
+E        K18990
+E        K18989
+E        K12340
+D      M00821  Multidrug resistance, efflux pump TriABC-TolC
+E        K21136
+E        K21137
+E        K21134
+E        K12340
+D      M00822  Multidrug resistance, efflux pump MexMN-OprM
+E        K21135
+E        K21133
+E        K18139
+C    Metallic cation, iron-siderophore and vitamin B12 transport system
+D      M00240  Iron complex transport system [PATH:map02010] [BR:ko02000]
+E        K02016
+E        K02015
+E        K02013
+D      M00241  Vitamin B12 transport system [PATH:map02010] [BR:ko02000]
+E        K06858
+E        K06073
+E        K06074
+D      M00242  Zinc transport system [PATH:map02010] [BR:ko02000]
+E        K09815
+E        K09816
+E        K09817
+D      M00243  Manganese/iron transport system [BR:ko02000]
+E        K09818
+E        K09819
+E        K09820
+D      M00244  Putative zinc/manganese transport system [BR:ko02000]
+E        K02077
+E        K02075
+E        K02074
+D      M00245  Cobalt/nickel transport system [PATH:map02010] [BR:ko02000]
+E        K02009
+E        K02008
+E        K02007
+E        K02006
+D      M00246  Nickel transport system [PATH:map02010] [BR:ko02000]
+E        K16915
+E        K02009
+E        K10094
+E        K02008
+E        K02007
+E        K02006
+D      M00247  Putative ABC transport system [BR:ko02000]
+E        K01989
+E        K05832
+E        K05833
+D      M00316  Manganese transport system [PATH:map02010 map02020] [BR:ko02000]
+E        K11601
+E        K11602
+E        K11603
+D      M00317  Manganese/iron transport system [PATH:map02010] [BR:ko02000]
+E        K11604
+E        K11605
+E        K11606
+E        K11607
+D      M00318  Iron/zinc/manganese/copper transport system [PATH:map02010] [BR:ko02000]
+E        K11704
+E        K11705
+E        K11706
+D      M00319  Manganese/zinc/iron transport system [PATH:map02010] [BR:ko02000]
+E        K11707
+E        K11708
+E        K11709
+E        K11710
+D      M00581  Biotin transport system [PATH:map02010] [BR:ko02000]
+E        K03523
+E        K16783
+E        K16784
+D      M00582  Energy-coupling factor transport system [PATH:map02010] [BR:ko02000]
+E        K03523
+E        K16923
+E        K16924
+E        K16925
+E        K16926
+E        K16927
+E        K16928
+E        K16929
+E        K16785
+E        K16786
+E        K16787
+D      M00791  Manganese/zinc transport system [PATH:map02010] [BR:ko02000]
+E        K19971
+E        K19972
+E        K10830
+D      M00792  Manganese/zinc transport system [PATH:map02010] [BR:ko02000]
+E        K19975
+E        K19976
+E        K19973
+C    Mineral and organic ion transport system
+D      M00185  Sulfate transport system [PATH:map02010] [BR:ko02000]
+E        K02048
+E        K23163
+E        K02046
+E        K02047
+E        K02045
+D      M00186  Tungstate transport system [PATH:map02010] [BR:ko02000]
+E        K05772
+E        K05773
+E        K06857
+D      M00188  NitT/TauT family transport system [BR:ko02000]
+E        K02051
+E        K02050
+E        K02049
+D      M00189  Molybdate transport system [PATH:map02010] [BR:ko02000]
+E        K02020
+E        K02018
+E        K02017
+E        K05776
+D      M00190  Iron(III) transport system [PATH:map02010] [BR:ko02000]
+E        K02012
+E        K02011
+E        K02010
+D      M00191  Thiamine transport system [PATH:map02010] [BR:ko02000]
+E        K02064
+E        K02063
+E        K02062
+D      M00192  Putative thiamine transport system [BR:ko02000]
+E        K05777
+E        K05778
+E        K05779
+D      M00193  Putative spermidine/putrescine transport system [BR:ko02000]
+E        K02055
+E        K02053
+E        K02054
+E        K02052
+D      M00208  Glycine betaine/proline transport system [PATH:map02010] [BR:ko02000]
+E        K02002
+E        K02001
+E        K02000
+D      M00209  Osmoprotectant transport system [PATH:map02010] [BR:ko02000]
+E        K05845
+E        K05846
+E        K05847
+D      M00299  Spermidine/putrescine transport system [PATH:map02010] [BR:ko02000]
+E        K11069
+E        K11070
+E        K11071
+E        K11072
+D      M00300  Putrescine transport system [PATH:map02010] [BR:ko02000]
+E        K11073
+E        K11074
+E        K11075
+E        K11076
+D      M00301  Mannopine transport system [PATH:map02010] [BR:ko02000]
+E        K11077
+E        K11078
+E        K11079
+E        K11080
+D      M00302  2-Aminoethylphosphonate transport system [PATH:map02010] [BR:ko02000]
+E        K11081
+E        K11082
+E        K11083
+E        K11084
+D      M00321  Bicarbonate transport system [PATH:map02010] [BR:ko02000]
+E        K11950
+E        K11951
+E        K11952
+E        K11953
+D      M00423  Molybdate/tungstate transport system [PATH:map02010] [BR:ko02000]
+E        K15495
+E        K15496
+E        K15497
+D      M00435  Taurine transport system [PATH:map02010] [BR:ko02000]
+E        K15551
+E        K15552
+E        K10831
+D      M00436  Sulfonate transport system [PATH:map02010] [BR:ko02000]
+E        K15553
+E        K15554
+E        K15555
+D      M00437  Phthalate transport system [PATH:map02010] [BR:ko02000]
+E        K15556
+E        K15557
+E        K15558
+D      M00438  Nitrate/nitrite transport system [PATH:map00910 map02010] [BR:ko02000]
+E        K15576
+E        K15577
+E        K15578
+E        K15579
+D      M00442  Putative hydroxymethylpyrimidine transport system [PATH:map02010] [BR:ko02000]
+E        K15598
+E        K15599
+E        K15600
+C    Peptide and nickel transport system
+D      M00239  Peptides/nickel transport system [PATH:map02010] [BR:ko02000]
+E        K02035
+E        K02033
+E        K02034
+E        K02031
+E        K02032
+D      M00324  Dipeptide transport system [PATH:map02010] [BR:ko02000]
+E        K12368
+E        K12369
+E        K12370
+E        K12371
+E        K12372
+D      M00348  Glutathione transport system [PATH:map02010] [BR:ko02000]
+E        K13889
+E        K13890
+E        K13891
+E        K13892
+D      M00349  Microcin C transport system [PATH:map02010] [BR:ko02000]
+E        K13893
+E        K13894
+E        K13895
+E        K13896
+D      M00439  Oligopeptide transport system [PATH:map02010] [BR:ko02000]
+E        K15580
+E        K15581
+E        K15582
+E        K15583
+E        K10823
+D      M00440  Nickel transport system [PATH:map02010] [BR:ko02000]
+E        K15584
+E        K15585
+E        K15586
+E        K15587
+E        K10824
+D      M00566  Dipeptide transport system, Firmicutes [PATH:map02010] [BR:ko02000]
+E        K16199
+E        K16200
+E        K16201
+E        K16202
+D      M00739  Cationic peptide transport system [PATH:map02010] [BR:ko02000]
+E        K19226
+E        K19227
+E        K19228
+E        K19229
+E        K19230
+C    Phosphate and amino acid transport system
+D      M00222  Phosphate transport system [PATH:map02010] [BR:ko02000]
+E        K02040
+E        K02037
+E        K02038
+E        K02036
+D      M00223  Phosphonate transport system [PATH:map02010] [BR:ko02000]
+E        K02044
+E        K02042
+E        K02041
+D      M00225  Lysine/arginine/ornithine transport system [PATH:map02010] [BR:ko02000]
+E        K10013
+E        K10015
+E        K10016
+E        K10017
+D      M00226  Histidine transport system [PATH:map02010] [BR:ko02000]
+E        K10014
+E        K10015
+E        K10016
+E        K10017
+D      M00227  Glutamine transport system [PATH:map02010] [BR:ko02000]
+E        K10036
+E        K10037
+E        K10038
+D      M00228  Aspartate/glutamate/glutamine transport system
+E        K10039
+E        K10040
+E        K10041
+D      M00229  Arginine transport system [PATH:map02010] [BR:ko02000]
+E        K09996
+E        K09997
+E        K09998
+E        K09999
+E        K10000
+D      M00230  Glutamate/aspartate transport system [PATH:map02010] [BR:ko02000]
+E        K10001
+E        K10002
+E        K10003
+E        K10004
+D      M00231  Octopine/nopaline transport system [PATH:map02010] [BR:ko02000]
+E        K10018
+E        K10019
+E        K10020
+E        K10021
+D      M00232  General L-amino acid transport system [PATH:map02010] [BR:ko02000]
+E        K09969
+E        K09970
+E        K09971
+E        K09972
+D      M00233  Glutamate transport system [PATH:map02010] [BR:ko02000]
+E        K10005
+E        K10006
+E        K10007
+E        K10008
+D      M00234  Cystine transport system [PATH:map02010] [BR:ko02000]
+E        K02424
+E        K10009
+E        K10010
+D      M00235  Arginine/ornithine transport system [PATH:map02010] [BR:ko02000]
+E        K10022
+E        K10023
+E        K10024
+E        K10025
+D      M00236  Putative polar amino acid transport system [BR:ko02000]
+E        K02030
+E        K02029
+E        K02028
+D      M00237  Branched-chain amino acid transport system [PATH:map02010] [BR:ko02000]
+E        K01999
+E        K01997
+E        K01998
+E        K01995
+E        K01996
+D      M00238  D-Methionine transport system [PATH:map02010] [BR:ko02000]
+E        K02073
+E        K02072
+E        K02071
+D      M00322  Neutral amino acid transport system [PATH:map02010] [BR:ko02000]
+E        K11954
+E        K11955
+E        K11956
+E        K11957
+E        K11958
+D      M00323  Urea transport system [PATH:map02010] [BR:ko02000]
+E        K11959
+E        K11960
+E        K11961
+E        K11962
+E        K11963
+D      M00585  L-Cystine transport system [PATH:map02010] [BR:ko02000]
+E        K16956
+E        K16957
+E        K16958
+E        K16959
+E        K16960
+D      M00586  Putative S-methylcysteine transport system
+E        K16961
+E        K16962
+E        K16963
+D      M00587  Arginine/lysine/histidine/glutamine transport system [PATH:map02010] [BR:ko02000]
+E        K17062
+E        K17063
+D      M00589  Putative lysine transport system [PATH:map02010] [BR:ko02000]
+E        K17073
+E        K17074
+E        K17076
+D      M00863  Putative lysine/arginine/ornithine/histidine/octopine transport system
+E        K23055
+E        K23056
+E        K23057
+E        K23058
+D      M00864  Arginine/lysine/histidine transport system
+E        K23060
+E        K23059
+E        K17077
+D      M00865  Hydroxyproline transporter system
+E        K23061
+E        K23062
+E        K23063
+E        K23064
+C    Phosphotransferase system (PTS)
+D      M00265  PTS system, glucose-specific II component [PATH:map00010 map00520 map02060] [BR:ko02000]
+E        K02777
+E        K02778
+E        K02779
+D      M00266  PTS system, maltose and glucose-specific II component [PATH:map00010 map00500 map00520 map02060] [BR:ko02000]
+E        K02777
+E        K02790
+E        K02791
+D      M00267  PTS system, N-acetylglucosamine-specific II component [PATH:map00520 map02060] [BR:ko02000]
+E        K02802
+E        K02803
+E        K02804
+D      M00268  PTS system, alpha-glucoside-specific II component
+E        K02777
+E        K02749
+E        K02750
+D      M00269  PTS system, sucrose-specific II component [PATH:map00500 map02060] [BR:ko02000]
+E        K02808
+E        K02809
+E        K02810
+D      M00270  PTS system, trehalose-specific II component [PATH:map00500 map02060] [BR:ko02000]
+E        K02777
+E        K02817
+E        K02818
+E        K02819
+D      M00271  PTS system, beta-glucosides-specific II component [PATH:map02060] [BR:ko02000]
+E        K02755
+E        K02756
+E        K02757
+D      M00272  PTS system, arbutin-, cellobiose-, and salicin-specific II component [PATH:map00010 map02060] [BR:ko02000]
+E        K02777
+E        K02752
+E        K02753
+D      M00273  PTS system, fructose-specific II component [PATH:map00051 map02060] [BR:ko02000]
+E        K02768
+E        K02769
+E        K02770
+D      M00274  PTS system, mannitol-specific II component [PATH:map00051 map02060] [BR:ko02000]
+E        K02798
+E        K02799
+E        K02800
+D      M00275  PTS system, cellobiose-specific II component [PATH:map00500 map02060] [BR:ko02000]
+E        K02759
+E        K02760
+E        K02761
+D      M00276  PTS system, mannose-specific II component [PATH:map00051 map02060] [BR:ko02000]
+E        K02793
+E        K02794
+E        K02795
+E        K02796
+D      M00277  PTS system, N-acetylgalactosamine-specific II component [PATH:map00052 map02060] [BR:ko02000]
+E        K02744
+E        K02745
+E        K02746
+E        K02747
+D      M00278  PTS system, sorbose-specific II component [PATH:map00051 map02060] [BR:ko02000]
+E        K02812
+E        K02813
+E        K02814
+E        K02815
+D      M00279  PTS system, galactitol-specific II component [PATH:map00052 map02060] [BR:ko02000]
+E        K02773
+E        K02774
+E        K02775
+D      M00280  PTS system, glucitol/sorbitol-specific II component [PATH:map00051 map02060] [BR:ko02000]
+E        K02781
+E        K02782
+E        K02783
+D      M00281  PTS system, lactose-specific II component [PATH:map00052 map02060] [BR:ko02000]
+E        K02786
+E        K02787
+E        K02788
+D      M00282  PTS system, D-glucosamine-specific II component [PATH:map00520 map02060] [BR:ko02000]
+E        K02763
+E        K02764
+E        K02765
+D      M00283  PTS system, ascorbate-specific II component [PATH:map00053 map02060] [BR:ko02000]
+E        K02821
+E        K02822
+E        K03475
+D      M00287  PTS system, galactosamine-specific II component [PATH:map00052 map02060] [BR:ko02000]
+E        K02744
+E        K10984
+E        K10985
+E        K10986
+D      M00303  PTS system, N-acetylmuramic acid-specific II component [PATH:map02060] [BR:ko02000]
+E        K02777
+E        K11191
+E        K11192
+D      M00304  PTS system, fructose-specific II component [PATH:map00051 map02060] [BR:ko02000]
+E        K11194
+E        K11195
+E        K11196
+E        K02771
+D      M00305  PTS system, 2-O-A-mannosyl-D-glycerate-specific II component [PATH:map02060] [BR:ko02000]
+E        K11198
+E        K11199
+E        K11200
+D      M00306  PTS system, fructose-specific II-like component [BR:ko02000]
+E        K11201
+E        K11202
+E        K11203
+D      M00610  PTS system, D-glucosaminate-specific II component [PATH:map02060] [BR:ko02000]
+E        K17464
+E        K17465
+E        K17466
+E        K17467
+D      M00764  PTS system, fructoselysine and glucoselysine-specific II component [PATH:map02060] [BR:ko02000]
+E        K19506
+E        K19507
+E        K19508
+E        K19509
+D      M00806  PTS system, maltose-specific II component [PATH:map00500 map02060] [BR:ko02000]
+E        K02777
+E        K20107
+E        K20108
+D      M00807  PTS system, galactose-specific II component [PATH:map02060] [BR:ko02000]
+E        K20112
+E        K20113
+E        K20114
+D      M00809  PTS system, glucose-specific II component [PATH:map00010 map00520 map02060] [BR:ko02000]
+E        K20116
+E        K20117
+E        K20118
+C    Saccharide, polyol, and lipid transport system
+D      M00194  Maltose/maltodextrin transport system [PATH:map02010] [BR:ko02000]
+E        K10108
+E        K10109
+E        K10110
+E        K10111
+E        K10112
+D      M00196  Raffinose/stachyose/melibiose transport system
+E        K10117
+E        K10118
+E        K10119
+E        K10112
+D      M00197  Putative fructooligosaccharide transport system [BR:ko02000]
+E        K10120
+E        K10121
+E        K10122
+E        K10112
+D      M00198  Putative sn-glycerol-phosphate transport system [PATH:map02010] [BR:ko02000]
+E        K05813
+E        K05814
+E        K05815
+E        K05816
+D      M00199  L-Arabinose/lactose transport system [PATH:map02010] [BR:ko02000]
+E        K10188
+E        K10189
+E        K10190
+E        K10191
+D      M00200  Putative sorbitol/mannitol transport system [PATH:map02010] [BR:ko02000]
+E        K10227
+E        K10228
+E        K10229
+E        K10111
+E        K10112
+D      M00201  alpha-Glucoside transport system [PATH:map02010] [BR:ko02000]
+E        K10232
+E        K10233
+E        K10234
+E        K10235
+E        K10112
+D      M00202  Oligogalacturonide transport system [PATH:map02010] [BR:ko02000]
+E        K10192
+E        K10193
+E        K10194
+E        K10195
+D      M00203  Glucose/arabinose transport system [PATH:map02010] [BR:ko02000]
+E        K10196
+E        K10197
+E        K10198
+E        K10199
+D      M00204  Trehalose/maltose transport system [PATH:map02010] [BR:ko02000]
+E        K10236
+E        K10237
+E        K10238
+E        K10111
+D      M00205  N-Acetylglucosamine transport system [PATH:map02010] [BR:ko02000]
+E        K10200
+E        K10201
+E        K10202
+D      M00206  Cellobiose transport system [PATH:map02010] [BR:ko02000]
+E        K10240
+E        K10241
+E        K10242
+E        K10112
+D      M00207  Putative multiple sugar transport system [BR:ko02000]
+E        K02027
+E        K02025
+E        K02026
+E        K10111
+E        K10112
+D      M00210  Phospholipid transport system [PATH:map02010] [BR:ko02000]
+E        K07323
+E        K02067
+E        K02066
+E        K02065
+E        K07122
+D      M00211  Putative ABC transport system [BR:ko02000]
+E        K02069
+E        K02068
+D      M00212  Ribose transport system [PATH:map02010] [BR:ko02000]
+E        K10439
+E        K10440
+E        K10441
+D      M00213  L-Arabinose transport system [PATH:map02010] [BR:ko02000]
+E        K10537
+E        K10538
+E        K10539
+D      M00214  Methyl-galactoside transport system [PATH:map02010] [BR:ko02000]
+E        K10540
+E        K10541
+E        K10542
+D      M00215  D-Xylose transport system [PATH:map02010] [BR:ko02000]
+E        K10543
+E        K10544
+E        K10545
+D      M00216  Multiple sugar transport system [PATH:map02010] [BR:ko02000]
+E        K10546
+E        K10547
+E        K10548
+D      M00217  D-Allose transport system [PATH:map02010] [BR:ko02000]
+E        K10549
+E        K10550
+E        K10551
+D      M00218  Fructose transport system [PATH:map02010] [BR:ko02000]
+E        K10552
+E        K10553
+E        K10554
+D      M00219  AI-2 transport system [PATH:map02010] [BR:ko02000]
+E        K10555
+E        K10556
+E        K10557
+E        K10558
+D      M00220  Rhamnose transport system [PATH:map02010] [BR:ko02000]
+E        K10559
+E        K10560
+E        K10561
+E        K10562
+D      M00221  Putative simple sugar transport system [BR:ko02000]
+E        K02058
+E        K02057
+E        K02056
+D      M00491  arabinogalactan oligomer/maltooligosaccharide transport system [PATH:map02010] [BR:ko02000]
+E        K15770
+E        K15771
+E        K15772
+E        K10111
+E        K10112
+D      M00590  Erythritol transport system [PATH:map02010] [BR:ko02000]
+E        K17202
+E        K17203
+E        K17204
+D      M00591  Putative xylitol transport system [PATH:map02010] [BR:ko02000]
+E        K17205
+E        K17206
+E        K17207
+D      M00592  Inositol transport system [PATH:map02010] [BR:ko02000]
+E        K17208
+E        K17209
+E        K17210
+D      M00593  Inositol transport system [PATH:map02010] [BR:ko02000]
+E        K17213
+E        K17214
+E        K17215
+D      M00599  Inositol-phosphate transport system [PATH:map02010] [BR:ko02000]
+E        K17237
+E        K17238
+E        K17239
+E        K17240
+D      M00600  alpha-1,4-Digalacturonate transport system [PATH:map02010] [BR:ko02000]
+E        K17241
+E        K17242
+E        K17243
+D      M00601  Putative chitobiose transport system [PATH:map02010] [BR:ko02000]
+E        K17244
+E        K17245
+E        K17246
+D      M00602  Arabinosaccharide transport system [PATH:map02010] [BR:ko02000]
+E        K17234
+E        K17235
+E        K17236
+E        K10112
+D      M00603  Putative aldouronate transport system [PATH:map02010] [BR:ko02000]
+E        K17318
+E        K17319
+E        K17320
+D      M00604  Trehalose transport system [PATH:map02010] [BR:ko02000]
+E        K17311
+E        K17312
+E        K17313
+E        K17314
+D      M00605  Glucose/mannose transport system [PATH:map02010] [BR:ko02000]
+E        K17315
+E        K17316
+E        K17317
+E        K10112
+D      M00606  N,N'-Diacetylchitobiose transport system [PATH:map02010] [BR:ko02000]
+E        K17329
+E        K17330
+E        K17331
+E        K10112
+D      M00607  Glycerol transport system [PATH:map02010] [BR:ko02000]
+E        K17321
+E        K17322
+E        K17323
+E        K17324
+E        K17325
+D      M00619  Xylobiose transport system [PATH:map02010] [BR:ko02000]
+E        K17326
+E        K17327
+E        K17328
+D      M00669  gamma-Hexachlorocyclohexane transport system [BR:ko02000]
+E        K02067
+E        K02066
+E        K02065
+E        K18480
+D      M00670  Mce transport system [BR:ko02000]
+E        K02067
+E        K02066
+E        K02065
+E        K18481
+B
+B  <b>Genetic information processing</b>
+C    DNA polymerase
+D      M00260  DNA polymerase III complex, bacteria [PATH:map03030 map03430 map03440] [BR:ko03032 ko03400]
+E        K02337
+E        K03763
+E        K02342
+E        K14159
+E        K02345
+E        K02338
+E        K02340
+E        K02341
+E        K02343
+E        K02339
+E        K02344
+D      M00261  DNA polymerase alpha / primase complex [PATH:map03030] [BR:ko03032]
+E        K02320
+E        K02321
+E        K02685
+E        K02684
+D      M00262  DNA polymerase delta complex [PATH:map03030 map03410 map03420] [BR:ko03032 ko03400]
+E        K02327
+E        K02328
+E        K03504
+E        K03505
+D      M00263  DNA polymerase epsilon complex [PATH:map03030] [BR:ko03032 ko03400]
+E        K02324
+E        K02325
+E        K02326
+E        K03506
+D      M00264  DNA polymerase II complex, archaea [BR:ko03032]
+E        K02322
+E        K02323
+D      M00293  DNA polymerase zeta  complex [PATH:map03460] [BR:ko03400]
+E        K02350
+E        K03508
+E        K13728
+D      M00294  DNA polymerase gamma complex [BR:ko03032]
+E        K02332
+E        K02333
+C    Proteasome
+D      M00337  Immunoproteasome [PATH:map03050] [BR:ko03051]
+E        K02725
+E        K02726
+E        K02727
+E        K02728
+E        K02729
+E        K02730
+E        K02731
+E        K02732
+E        K02734
+E        K02735
+E        K02736
+E        K02741
+E        K02733
+E        K02740
+E        K06696
+E        K06697
+D      M00340  Proteasome, 20S core particle [PATH:map03050] [BR:ko03051]
+E        K02725
+E        K02726
+E        K02727
+E        K02728
+E        K02729
+E        K02730
+E        K02731
+E        K02732
+E        K02734
+E        K02735
+E        K02736
+E        K02737
+E        K02738
+E        K02739
+D      M00341  Proteasome, 19S regulatory particle (PA700) [PATH:map03050] [BR:ko03051]
+E        K03061
+E        K03062
+E        K03063
+E        K03064
+E        K03065
+E        K03066
+E        K03028
+E        K03032
+E        K03033
+E        K03035
+E        K03036
+E        K03037
+E        K03038
+E        K03039
+E        K03029
+E        K03030
+E        K03031
+E        K06691
+E        K10881
+D      M00342  Bacterial proteasome [PATH:map03050] [BR:ko03051]
+E        K03432
+E        K03433
+E        K13527
+E        K13571
+D      M00343  Archaeal proteasome [PATH:map03050] [BR:ko03051]
+E        K03432
+E        K03433
+E        K03420
+C    Protein processing
+D      M00400  p97-Ufd1-Npl4 complex [PATH:map04141]
+E        K13525
+E        K14016
+E        K14015
+D      M00401  Sec61 complex [PATH:map03060 map04141 map04145 map05110] [BR:ko02044]
+E        K10956
+E        K09481
+E        K07342
+D      M00402  Translocon-associated protein (TRAP) complex [PATH:map04141]
+E        K13249
+E        K13250
+E        K13251
+E        K04571
+D      M00403  HRD1/SEL1 ERAD complex [PATH:map04141]
+E        K10601
+E        K14026
+E        K10088
+E        K14008
+E        K14027
+E        K11519
+E        K13989
+E        K14025
+E        K13525
+E        K14015
+E        K14016
+D      M00404  COPII complex [PATH:map04141]
+E        K14004
+E        K14005
+E        K14006
+E        K14007
+E        K07953
+D      M00408  ESCRT-0 complex [PATH:map04144]
+E        K12182
+E        K04705
+D      M00409  ESCRT-I complex [PATH:map04144]
+E        K12183
+E        K12184
+E        K12185
+E        K12186
+D      M00410  ESCRT-II complex [PATH:map04144]
+E        K12188
+E        K12189
+E        K12190
+D      M00412  ESCRT-III complex [PATH:map04144]
+E        K12191
+E        K12192
+E        K12193
+E        K12194
+E        K12195
+E        K12196
+E        K12197
+E        K12198
+E        K15053
+C    Repair system
+D      M00290  Holo-TFIIH complex [PATH:map03420] [BR:ko03021 ko03400]
+E        K03141
+E        K03142
+E        K03143
+E        K03144
+E        K10843
+E        K10844
+E        K10845
+E        K02202
+E        K06634
+E        K10842
+D      M00291  MRN complex [PATH:map03440] [BR:ko03032 ko03400]
+E        K10865
+E        K10866
+E        K10867
+D      M00292  MRX complex [PATH:map03440 map03450] [BR:ko03400]
+E        K10865
+E        K10866
+E        K10868
+D      M00295  BRCA1-associated genome surveillance complex (BASC) [PATH:map03430 map03440 map03460] [BR:ko03400]
+E        K10605
+E        K08735
+E        K08737
+E        K08734
+E        K10858
+E        K10754
+E        K10755
+E        K10756
+E        K04802
+E        K10865
+E        K10866
+E        K10867
+E        K10901
+E        K04728
+D      M00296  BER complex [PATH:map03410] [BR:ko03400]
+E        K10803
+E        K10798
+E        K02330
+E        K03512
+E        K10981
+E        K10776
+E        K10771
+E        K10772
+D      M00297  DNA-PK complex [PATH:map03450 map04110] [BR:ko03032 ko03400]
+E        K10884
+E        K10885
+E        K06642
+D      M00413  FA core complex [PATH:map03460] [BR:ko03400]
+E        K10888
+E        K10889
+E        K10890
+E        K10892
+E        K10893
+E        K10894
+E        K10606
+E        K10896
+E        K10898
+E        K10993
+D      M00414  Bloom's syndrome complex [PATH:map03460] [BR:ko03400]
+E        K10901
+E        K03165
+E        K10990
+E        K15365
+C    Replication system
+D      M00284  Origin recognition complex [PATH:map04110 map04111 map04113] [BR:ko03032]
+E        K02603
+E        K02604
+E        K02605
+E        K02606
+E        K02607
+E        K02608
+D      M00285  MCM complex [PATH:map03030 map04110 map04111 map04113] [BR:ko03032]
+E        K02540
+E        K02541
+E        K02212
+E        K02209
+E        K02542
+E        K02210
+D      M00286  GINS complex [BR:ko03032]
+E        K10732
+E        K10733
+E        K10734
+E        K10735
+D      M00288  RPA complex [PATH:map03030 map03420 map03430 map03440] [BR:ko03032 ko03400]
+E        K07466
+E        K10739
+E        K10741
+E        K10740
+D      M00289  RF-C complex [PATH:map03030 map03420 map03430] [BR:ko03032 ko03400]
+E        K10754
+E        K10755
+E        K10756
+D      M00424  Shelterin complex [BR:ko03032]
+E        K11109
+E        K11110
+E        K11111
+E        K11112
+E        K11113
+E        K11114
+C    Ribosome
+D      M00177  Ribosome, eukaryotes [PATH:map03010] [BR:ko03011]
+E        K02981
+E        K02985
+E        K02984
+E        K02987
+E        K02989
+E        K02991
+E        K02993
+E        K02995
+E        K02997
+E        K02947
+E        K02949
+E        K02951
+E        K02953
+E        K02955
+E        K02958
+E        K02957
+E        K02960
+E        K02962
+E        K02964
+E        K02966
+E        K02969
+E        K02971
+E        K02973
+E        K02974
+E        K02975
+E        K02976
+E        K02978
+E        K02977
+E        K02979
+E        K02980
+E        K02983
+E        K02998
+E        K02925
+E        K02930
+E        K02932
+E        K02934
+E        K02937
+E        K02936
+E        K02938
+E        K02940
+E        K02866
+E        K02865
+E        K02868
+E        K02870
+E        K02873
+E        K02872
+E        K02875
+E        K02877
+E        K02880
+E        K02883
+E        K02882
+E        K02885
+E        K02889
+E        K02891
+E        K02894
+E        K02893
+E        K02896
+E        K02898
+E        K02901
+E        K02900
+E        K02903
+E        K02905
+E        K02908
+E        K02910
+E        K02912
+E        K02915
+E        K02918
+E        K02917
+E        K02920
+E        K02922
+E        K02921
+E        K02923
+E        K02924
+E        K02927
+E        K02928
+E        K02929
+E        K02941
+E        K02942
+E        K02943
+D      M00178  Ribosome, bacteria [PATH:map03010] [BR:ko03011]
+E        K02946
+E        K02906
+E        K02926
+E        K02892
+E        K02886
+E        K02965
+E        K02890
+E        K02982
+E        K02878
+E        K02904
+E        K02961
+E        K02874
+E        K02895
+E        K02931
+E        K02954
+E        K02994
+E        K02933
+E        K02881
+E        K02988
+E        K02907
+E        K02876
+E        K02919
+E        K02952
+E        K02948
+E        K02986
+E        K02879
+E        K02871
+E        K02996
+E        K02992
+E        K02950
+E        K07590
+E        K02935
+E        K02864
+E        K02863
+E        K02867
+E        K02967
+E        K02956
+E        K02916
+E        K02887
+E        K02914
+E        K02939
+E        K02963
+E        K02990
+E        K02888
+E        K02899
+E        K02902
+E        K02913
+E        K02911
+E        K02909
+E        K02897
+E        K02959
+E        K02884
+E        K02968
+E        K02945
+E        K02970
+D      M00179  Ribosome, archaea [PATH:map03010] [BR:ko03011]
+E        K02946
+E        K02906
+E        K02930
+E        K02892
+E        K02886
+E        K02965
+E        K02890
+E        K02982
+E        K02904
+E        K02961
+E        K02874
+E        K02895
+E        K02987
+E        K02931
+E        K02954
+E        K02994
+E        K02933
+E        K02912
+E        K02885
+E        K02881
+E        K02988
+E        K02907
+E        K02876
+E        K02952
+E        K02948
+E        K02986
+E        K02883
+E        K02871
+E        K02996
+E        K02992
+E        K02950
+E        K02936
+E        K02979
+E        K02896
+E        K02869
+E        K02864
+E        K02863
+E        K02867
+E        K02967
+E        K02956
+E        K02978
+E        K02929
+E        K02877
+E        K02984
+E        K02991
+E        K02974
+E        K02977
+E        K02962
+E        K02910
+E        K02924
+E        K02866
+E        K02889
+E        K02922
+E        K02921
+E        K02995
+E        K02966
+E        K02927
+E        K02944
+E        K02976
+E        K02975
+E        K02983
+E        K02873
+E        K02917
+E        K02928
+E        K02915
+E        K02875
+E        K02908
+D      M90000  Ribosome, prokaryote [PATH:map03010] [BR:ko03011]
+E        K02909
+E        K02959
+E        K02965
+E        K02982
+E        K02929
+E        K02948
+E        K02988
+E        K02922
+E        K02961
+E        K02881
+E        K02878
+E        K02869
+E        K02892
+E        K02946
+E        K02921
+E        K02956
+E        K02986
+E        K02931
+E        K02877
+E        K02910
+E        K02995
+E        K02885
+E        K02967
+E        K02876
+E        K02871
+E        K02962
+E        K02866
+E        K02987
+E        K02886
+E        K02889
+E        K02991
+E        K02935
+E        K02902
+E        K02912
+E        K02968
+E        K02945
+E        K02952
+E        K02979
+E        K02939
+E        K02950
+E        K02879
+E        K02887
+E        K02974
+E        K02978
+E        K02883
+E        K02992
+E        K02911
+E        K02930
+E        K02996
+E        K02890
+E        K02864
+E        K02927
+E        K02924
+E        K02899
+E        K02914
+E        K02884
+E        K02990
+E        K02863
+E        K02896
+E        K02977
+E        K02963
+E        K02919
+E        K02936
+E        K02888
+E        K02895
+E        K02984
+E        K02954
+E        K02994
+E        K02874
+E        K02926
+E        K02933
+E        K02907
+E        K02913
+E        K02916
+E        K02908
+E        K02906
+E        K02966
+E        K02867
+E        K02904
+C    RNA polymerase
+D      M00180  RNA polymerase II, eukaryotes [PATH:map03020 map05016] [BR:ko03021 ko03400]
+E        K03006
+E        K03010
+E        K03011
+E        K03008
+E        K03012
+E        K03015
+E        K03017
+E        K03013
+E        K03014
+E        K03016
+E        K03009
+E        K03007
+D      M00181  RNA polymerase III, eukaryotes [PATH:map03020 map04623] [BR:ko03021]
+E        K03018
+E        K03021
+E        K03027
+E        K03020
+E        K03023
+E        K03026
+E        K14721
+E        K03025
+E        K03024
+E        K03022
+E        K03019
+E        K03013
+E        K03014
+E        K03016
+E        K03009
+E        K03007
+D      M00182  RNA polymerase I, eukaryotes [PATH:map03020] [BR:ko03021]
+E        K02999
+E        K03002
+E        K03027
+E        K03020
+E        K03000
+E        K03001
+E        K03003
+E        K03004
+E        K03005
+E        K03013
+E        K03014
+E        K03016
+E        K03009
+E        K03007
+D      M00183  RNA polymerase, bacteria [PATH:map03020] [BR:ko03021 ko03400]
+E        K03040
+E        K03043
+E        K03046
+E        K13797
+E        K03060
+E        K03048
+D      M00184  RNA polymerase, archaea [PATH:map03020] [BR:ko03021]
+E        K03042
+E        K03041
+E        K03044
+E        K03045
+E        K13798
+E        K03053
+E        K03055
+E        K03058
+E        K03047
+E        K03049
+E        K03050
+E        K03056
+E        K03059
+E        K03051
+E        K03052
+E        K03054
+C    RNA processing
+D      M00390  Exosome, archaea [PATH:map03018]
+E        K07573
+E        K03679
+E        K11600
+E        K12589
+D      M00391  Exosome, eukaryotes [PATH:map03018]
+E        K07573
+E        K12587
+E        K03679
+E        K03681
+E        K11600
+E        K12589
+E        K12586
+E        K12585
+E        K03678
+E        K12590
+D      M00392  Ski complex [PATH:map03018]
+E        K12599
+E        K12600
+E        K12601
+E        K12602
+D      M00393  TRAMP complex [PATH:map03018]
+E        K03514
+E        K12596
+E        K12597
+E        K12598
+D      M00394  RNA degradosome [PATH:map03018]
+E        K08300
+E        K03732
+E        K01689
+E        K00962
+D      M00395  Decapping complex [PATH:map03018]
+E        K12610
+E        K12611
+E        K12612
+E        K12613
+E        K12614
+E        K12615
+E        K12617
+D      M00405  THC complex [PATH:map03040 map03013] [BR:ko03041]
+E        K12878
+E        K12879
+E        K13174
+E        K13175
+E        K13176
+D      M00406  TREX complex [PATH:map03013 map03040] [BR:ko03041]
+E        K12878
+E        K12879
+E        K13174
+E        K13175
+E        K13176
+E        K12880
+E        K12881
+E        K12812
+D      M00425  H/ACA ribonucleoprotein complex [PATH:map03008] [BR:ko03032 ko03009]
+E        K11128
+E        K11129
+E        K11130
+E        K11131
+D      M00426  Survival motor neuron (SMN) complex [PATH:map03013] [BR:ko03041]
+E        K13129
+E        K13130
+E        K13131
+E        K13132
+E        K13133
+E        K13134
+E        K13135
+E        K13136
+E        K13137
+D      M00427  Nuclear pore complex [PATH:map03013]
+E        K09291
+E        K14295
+E        K14296
+E        K03345
+E        K14297
+E        K14298
+E        K14004
+E        K14299
+E        K14300
+E        K14301
+E        K14302
+E        K14303
+E        K14304
+E        K14305
+E        K14306
+E        K14307
+E        K14308
+E        K14309
+E        K14310
+E        K14311
+E        K14312
+E        K14313
+E        K14314
+E        K14315
+E        K14316
+E        K14317
+E        K14318
+E        K12172
+E        K14319
+E        K10577
+E        K12160
+E        K14320
+E        K14321
+D      M00428  eIF4F complex [PATH:map03013] [BR:ko03012]
+E        K03259
+E        K03260
+E        K03257
+D      M00430  Exon junction complex (EJC) [PATH:map03013 map03015 map03040] [BR:ko03041]
+E        K12876
+E        K12877
+E        K14323
+E        K13025
+E        K14324
+E        K13114
+E        K12875
+E        K14325
+E        K12881
+E        K12812
+E        K13171
+E        K14285
+E        K14326
+E        K14327
+E        K14328
+C    Spliceosome
+D      M00351  Spliceosome, U1-snRNP [PATH:map03040] [BR:ko03041]
+E        K11086
+E        K11087
+E        K11096
+E        K11088
+E        K11097
+E        K11098
+E        K11099
+E        K11093
+E        K11091
+E        K11095
+D      M00352  Spliceosome, U2-snRNP [PATH:map03040] [BR:ko03041]
+E        K11086
+E        K11087
+E        K11096
+E        K11088
+E        K11097
+E        K11098
+E        K11099
+E        K11092
+E        K11094
+E        K12825
+E        K12826
+E        K12827
+E        K12828
+E        K12829
+E        K12830
+E        K12831
+E        K12832
+E        K12833
+E        K12835
+E        K12834
+D      M00353  Spliceosome, Prp19/CDC5L complex [PATH:map03040] [BR:ko03041]
+E        K10599
+E        K12860
+E        K12861
+E        K12862
+E        K12863
+E        K12864
+E        K03283
+E        K12865
+E        K12866
+D      M00354  Spliceosome, U4/U6.U5 tri-snRNP [PATH:map03040] [BR:ko03041]
+E        K11086
+E        K11087
+E        K11096
+E        K11088
+E        K11097
+E        K11098
+E        K11099
+E        K12621
+E        K12622
+E        K12623
+E        K12624
+E        K12625
+E        K12626
+E        K12627
+E        K12843
+E        K12662
+E        K09567
+E        K12844
+E        K12845
+E        K12852
+E        K12853
+E        K12855
+E        K12856
+E        K12857
+E        K12854
+E        K12858
+E        K12859
+E        K13099
+E        K11984
+E        K12847
+E        K12846
+D      M00355  Spliceosome, 35S U5-snRNP [PATH:map03040] [BR:ko03041]
+E        K11086
+E        K11087
+E        K11096
+E        K11088
+E        K11097
+E        K11098
+E        K11099
+E        K12856
+E        K12854
+E        K12852
+E        K12857
+E        K10599
+E        K12860
+E        K12861
+E        K12862
+E        K12863
+E        K06063
+E        K12867
+E        K12868
+E        K12869
+E        K12870
+E        K12871
+E        K12872
+E        K12873
+E        K12874
+E        K09564
+E        K12733
+E        K12816
+E        K13117
+E        K03283
+E        K13123
+D      M00396  Lsm 2-8 complex [PATH:map03040 map03018] [BR:ko03041]
+E        K12621
+E        K12622
+E        K12623
+E        K12624
+E        K12625
+E        K12626
+E        K12627
+D      M00397  Lsm 1-7 complex [PATH:map03018]
+E        K12620
+E        K12621
+E        K12622
+E        K12623
+E        K12624
+E        K12625
+E        K12626
+D      M00398  Sm core complex [PATH:map03040] [BR:ko03032 ko03041]
+E        K11086
+E        K11087
+E        K11096
+E        K11088
+E        K11097
+E        K11098
+E        K11099
+D      M00399  Cap binding complex [PATH:map03013 map03015 map03040 map03040] [BR:ko03041]
+E        K12882
+E        K12883
+C    Ubiquitin system
+D      M00379  SCF-MET30 complex [PATH:map04120 map04111] [BR:ko04121]
+E        K03868
+E        K03347
+E        K03094
+E        K10259
+D      M00380  SCF-BTRC complex [PATH:map04120 map04114 map04310 map04710] [BR:ko04121]
+E        K03868
+E        K03347
+E        K03094
+E        K03362
+D      M00381  SCF-SKP2 complex [PATH:map04120 map04110 map05168] [BR:ko04121]
+E        K03868
+E        K03347
+E        K03094
+E        K03875
+D      M00382  SCF-FBS complex [PATH:map04120 map04141] [BR:ko04121]
+E        K03868
+E        K03347
+E        K03094
+E        K10099
+E        K10100
+D      M00383  ECV complex [PATH:map04120 map05211] [BR:ko04121]
+E        K03868
+E        K03870
+E        K03872
+E        K03873
+E        K03871
+D      M00384  Cul3-SPOP complex [PATH:map04120] [BR:ko04121]
+E        K03868
+E        K03869
+E        K10523
+D      M00385  Cul4-DDB1-DDB2 complex [PATH:map04120 map03420] [BR:ko04121 ko03400]
+E        K03868
+E        K10609
+E        K10610
+E        K10140
+D      M00386  Cul4-DDB1-CSA complex [PATH:map04120 map03420] [BR:ko04121 ko03400]
+E        K03868
+E        K10609
+E        K10610
+E        K10570
+D      M00387  SCF-FBW7 complex [PATH:map04120] [BR:ko04121]
+E        K03868
+E        K03347
+E        K03094
+E        K10260
+D      M00388  ECS complex [PATH:map04120] [BR:ko04121]
+E        K10611
+E        K10612
+E        K03872
+E        K03873
+E        K04701
+E        K04694
+E        K04695
+E        K04696
+E        K04697
+E        K04698
+E        K04699
+D      M00389  APC/C complex [PATH:map04120 map04110 map04114 map04914 map04111 map04113] [BR:ko04121 ko03036]
+E        K03358
+E        K03349
+E        K03363
+E        K03364
+E        K03348
+E        K03350
+E        K03351
+E        K03352
+E        K03353
+E        K03354
+E        K03356
+E        K03355
+E        K03357
+E        K03359
+E        K12456
+D      M00407  SCF-CDC4 complex [PATH:map04120 map04111] [BR:ko04121]
+E        K03868
+E        K03347
+E        K03094
+E        K03361
+D      M00411  SCF-GRR1 complex [PATH:map04120 map04111] [BR:ko04121]
+E        K03868
+E        K03347
+E        K03094
+E        K03360
+A<b>FuncSet</b>
+B
+B  <b>Cellular processes</b>
+C    Cell signaling
+D      M00676  PI3K-Akt signaling [PATH:map04151 map04068 map04910]
+E        K04527
+E        K16172
+E        K00922
+E        K02649
+E        K04456
+E        K07201
+E        K09408
+D      M00677  Wnt signaling [PATH:map04310]
+E        K00182
+E        K00312
+E        K00408
+E        K00444
+E        K00445
+E        K00572
+E        K00714
+E        K01064
+E        K01357
+E        K01384
+E        K01558
+E        K03209
+E        K02432
+E        K02235
+E        K02329
+E        K02354
+E        K02375
+E        K02376
+E        K02842
+E        K04690
+E        K02353
+E        K03083
+E        K02105
+E        K02620
+E        K04490
+E        K04491
+E        K04492
+D      M00678  Hedgehog signaling [PATH:map04340 map05217]
+E        K06224
+E        K11989
+E        K11990
+E        K11988
+E        K06225
+E        K06226
+E        K18806
+E        K06229
+E        K16797
+E        K16798
+E        K06230
+E        K16799
+D      M00679  BMP signaling [PATH:map04350 map04390 map04550]
+E        K21283
+E        K04662
+E        K04663
+E        K16620
+E        K16621
+E        K16622
+E        K04664
+E        K04665
+E        K04671
+E        K04670
+E        K13596
+E        K04672
+E        K04673
+E        K13578
+E        K04675
+E        K04676
+E        K16790
+E        K16791
+E        K04501
+D      M00680  TGF-beta signaling [PATH:map04350 map04390]
+E        K13375
+E        K13376
+E        K13377
+E        K04388
+E        K04674
+E        K04500
+E        K04501
+D      M00681  Activin signaling [PATH:map04350 map04550]
+E        K04667
+E        K04670
+E        K13596
+E        K13567
+E        K04500
+E        K04501
+D      M00682  Notch signaling [PATH:map04330]
+E        K06051
+E        K06059
+E        K06170
+E        K04505
+E        K04522
+E        K06171
+E        K06172
+E        K02599
+E        K20994
+E        K20995
+E        K20996
+E        K06053
+D      M00683  Hippo signaling [PATH:map04390 map04391]
+E        K16683
+E        K16821
+E        K16822
+E        K16684
+E        K16685
+E        K04412
+E        K16686
+E        K08791
+E        K06685
+E        K16687
+E        K16820
+E        K09448
+D      M00684  JAK-STAT signaling [PATH:map04630]
+E        K11217
+E        K04447
+E        K11218
+E        K11219
+E        K11220
+E        K11221
+E        K04692
+E        K11222
+E        K11223
+E        K11224
+E        K11225
+E        K04694
+E        K04695
+E        K04696
+E        K04701
+E        K04697
+E        K04698
+E        K04699
+D      M00685  Apoptotic machinery [PATH:map04210 map04214 map04215]
+E        K02084
+E        K04399
+E        K04489
+E        K02187
+E        K04397
+D      M00686  Toll-like receptor signaling [PATH:map04620 map04064]
+E        K10159
+E        K10160
+E        K18809
+E        K04729
+E        K04730
+E        K04733
+E        K03175
+E        K04427
+E        K04404
+E        K04403
+E        K07209
+E        K04467
+E        K07210
+E        K04734
+E        K02580
+E        K04735
+D      M00687  MAPK (ERK1/2) signaling [PATH:map04010 map04013 map04011]
+E        K04366
+E        K08845
+E        K04365
+E        K04367
+E        K04368
+E        K04369
+E        K04371
+D      M00688  MAPK (JNK) signaling [PATH:map04010 map04013]
+E        K04416
+E        K04420
+E        K04421
+E        K04428
+E        K04429
+E        K04423
+E        K04415
+E        K04426
+E        K04425
+E        K04427
+E        K04417
+E        K04418
+E        K04419
+E        K17534
+E        K04430
+E        K04431
+E        K04440
+D      M00689  MAPK (p38) signaling [PATH:map04010 map04013]
+E        K04416
+E        K04420
+E        K04421
+E        K04428
+E        K04429
+E        K04423
+E        K04415
+E        K04426
+E        K04425
+E        K04427
+E        K04417
+E        K04418
+E        K04419
+E        K17534
+E        K04432
+E        K04433
+E        K04441
+D      M00690  MAPK (ERK5) signaling [PATH:map04010]
+E        K04420
+E        K04421
+E        K04463
+E        K04464
+D      M00691  DNA damage-induced cell cycle checkpoints [PATH:map04110]
+E        K06640
+E        K04728
+E        K02216
+E        K06641
+E        K02831
+E        K06645
+E        K05866
+E        K05867
+E        K02555
+D      M00692  Cell cycle - G1/S transition [PATH:map04110 map04111]
+E        K02089
+E        K02091
+E        K04503
+E        K10151
+E        K10152
+E        K02206
+E        K06626
+E        K06618
+E        K17454
+E        K09389
+E        K06620
+E        K02206
+E        K18810
+E        K14505
+E        K18811
+E        K18812
+E        K18813
+E        K04681
+E        K06620
+E        K04563
+E        K06646
+E        K04563
+E        K06650
+E        K12760
+E        K12413
+E        K09249
+D      M00693  Cell cycle - G2/M transition [PATH:map04110 map04111]
+E        K05867
+E        K06632
+E        K02087
+E        K06627
+E        K05868
+E        K18065
+E        K06632
+E        K02206
+E        K07760
+E        K06627
+E        K05868
+E        K02555
+E        K03114
+E        K04563
+E        K02220
+D      M00694  cGMP signaling [PATH:map04022]
+E        K12323
+E        K12324
+E        K12318
+E        K12319
+E        K07376
+E        K18283
+E        K04948
+E        K04952
+D      M00695  cAMP signaling [PATH:map04024]
+E        K04632
+E        K04630
+E        K08041
+E        K08042
+E        K08043
+E        K08044
+E        K08045
+E        K08046
+E        K08047
+E        K08048
+E        K08049
+E        K01768
+E        K04345
+B
+B  <b>Environmental information processing</b>
+C    Drug efflux transporter/pump
+D      M00644  Vanadium resistance, efflux pump MexGHI-OpmD
+E        K18304
+E        K18099
+E        K18305
+E        K18306
+E        K18307
+E        K18308
+D      M00645  Multidrug resistance, efflux pump SmeABC [PATH:map02020]
+E        K07642
+E        K07664
+E        K18321
+E        K18322
+E        K18323
+D      M00646  Multidrug resistance, efflux pump AcrAD-TolC [PATH:map02020]
+E        K07642
+E        K07664
+E        K03585
+E        K18324
+E        K12340
+D      M00647  Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF
+E        K03577
+E        K18992
+E        K13632
+E        K13631
+E        K05804
+E        K18325
+E        K18991
+E        K03585
+E        K18138
+E        K18139
+E        K12340
+D      M00648  Multidrug resistance, efflux pump MdtABC [PATH:map02020]
+E        K07642
+E        K07664
+E        K07799
+E        K07788
+E        K07789
+D      M00667  Tetracycline resistance, efflux pump
+E        K18219
+E        K18218
+D      M00668  Tetracycline resistance, TetA transporter
+E        K18476
+E        K08151
+D      M00699  Multidrug resistance, efflux pump AmeABC
+E        K18905
+E        K03585
+E        K18138
+E        K18904
+D      M00701  Multidrug resistance, efflux pump EmrAB
+E        K15974
+E        K03543
+E        K03446
+D      M00709  Macrolide resistance, MacAB-TolC transporter
+E        K07637
+E        K07660
+E        K05685
+E        K13888
+E        K12340
+D      M00713  Fluoroquinolone resistance, efflux pump LfrA
+E        K18937
+E        K08167
+D      M00715  Lincosamide resistance, efflux pump LmrB
+E        K18939
+E        K18926
+D      M00717  Multidrug resistance, efflux pump NorA
+E        K18940
+E        K18941
+E        K18906
+E        K08153
+D      M00737  Bacitracin resistance, VraDE transporter [PATH:map02020]
+E        K19083
+E        K19084
+E        K19081
+E        K19082
+E        K11631
+E        K11632
+D      M00738  Bacitracin resistance, BceAB transporter [PATH:map02020]
+E        K11629
+E        K11630
+E        K11631
+E        K11632
+D      M00765  Multidrug resistance, efflux pump Bmr
+E        K19575
+E        K19578
+D      M00767  Multidrug resistance, efflux pump OqxAB
+E        K05804
+E        K19587
+E        K19586
+E        K19585
+D      M00768  Multidrug resistance, efflux pump GesABC
+E        K19592
+E        K19595
+E        K19594
+E        K18139
+C    Drug resistance
+D      M00628  beta-Lactam resistance, AmpC system [PATH:map01501]
+E        K08218
+E        K01207
+E        K17850
+E        K01467
+E        K17836
+D      M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon [PATH:map01503]
+E        K07771
+E        K07643
+E        K18072
+E        K18073
+E        K07637
+E        K07660
+E        K07806
+E        K10012
+E        K10011
+E        K13014
+E        K07264
+E        K12962
+E        K12963
+D      M00722  Cationic antimicrobial peptide (CAMP) resistance, ethanolaminephosphotransferase EptA
+E        K07771
+E        K07643
+E        K03760
+D      M00723  Cationic antimicrobial peptide (CAMP) resistance, phosphoethanolamine transferase EptB [PATH:map01503]
+E        K07660
+E        K07637
+E        K18514
+E        K12975
+D      M00724  Cationic antimicrobial peptide (CAMP) resistance, palmitoyl transferase PagP [PATH:map01503]
+E        K07660
+E        K07637
+E        K12973
+D      M00727  Cationic antimicrobial peptide (CAMP) resistance, N-acetylmuramoyl-L-alanine amidase AmiA and AmiC [PATH:map01503]
+E        K07640
+E        K07662
+E        K01448
+D      M00728  Cationic antimicrobial peptide (CAMP) resistance, envelope protein folding and degrading  factors DegP and DsbA [PATH:map01503]
+E        K07640
+E        K07662
+E        K04771
+E        K03673
+D      M00729  Fluoroquinolone resistance, gyrase-protecting protein Qnr
+E        K03553
+E        K01356
+E        K18555
+D      M00742  Aminoglycoside resistance, protease FtsH
+E        K07638
+E        K07659
+E        K19416
+E        K04088
+E        K04087
+E        K03798
+D      M00743  Aminoglycoside resistance, protease HtpX
+E        K07638
+E        K07659
+E        K03799
+D      M00754  Nisin resistance, phage shock protein homolog LiaH
+E        K11617
+E        K11618
+E        K11619
+E        K11620
+D      M00760  Erythromycin resistance, macrolide 2'-phosphotransferase I MphA
+E        K19060
+E        K06979
+D      M00766  Streptomycin resistance, deactivating enzyme StrAB
+E        K10673
+E        K04343
+C    Two-component regulatory system
+D      M00434  PhoR-PhoB (phosphate starvation response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07636
+E        K07657
+E        K07658
+D      M00443  SenX3-RegX3 (phosphate starvation response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07768
+E        K07776
+D      M00444  PhoQ-PhoP (magnesium transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07637
+E        K07660
+D      M00445  EnvZ-OmpR (osmotic stress response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07638
+E        K07659
+D      M00446  RstB-RstA two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07639
+E        K07661
+D      M00447  CpxA-CpxR (envelope stress response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07640
+E        K07662
+D      M00448  CssS-CssR (secretion stress response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07650
+E        K07770
+D      M00449  CreC-CreB (phosphate regulation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07641
+E        K07663
+D      M00450  BaeS-BaeR (envelope stress response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07642
+E        K07664
+D      M00451  BasS-BasR (antimicrobial peptide resistance) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07643
+E        K07771
+D      M00452  CusS-CusR (copper tolerance) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07644
+E        K07665
+D      M00453  QseC-QseB (quorum sensing) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07645
+E        K07666
+D      M00454  KdpD-KdpE (potassium transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07646
+E        K07667
+D      M00455  TorS-TorR (TMAO respiration) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07647
+E        K07772
+D      M00456  ArcB-ArcA (anoxic redox control) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07648
+E        K07773
+D      M00457  TctE-TctD (tricarboxylic acid transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07649
+E        K07774
+D      M00458  ResE-ResD (aerobic and anaerobic respiration) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07651
+E        K07775
+D      M00459  VicK-VicR (cell wall metabolism) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07652
+E        K07668
+D      M00460  MprB-MprA (maintenance of persistent infection) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07653
+E        K07669
+D      M00461  MtrB-MtrA (osmotic stress response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07654
+E        K07670
+D      M00462  PrrB-PrrA (intracellular multiplication) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07655
+E        K07671
+D      M00463  TrcS-TrcR two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07656
+E        K07672
+D      M00464  NrsS-NrsR (nickel tolerance) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11328
+E        K11330
+D      M00465  ManS-ManR (manganese homeostasis) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11520
+E        K11521
+D      M00466  NblS-NblR (photosynthesis) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07769
+E        K11332
+D      M00467  SasA-RpaAB (circadian timing mediating) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K08479
+E        K10697
+E        K11329
+D      M00468  SaeS-SaeR (staphylococcal virulence regulation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K10681
+E        K10682
+D      M00469  BceS-BceR (bacitracin transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11629
+E        K11630
+D      M00470  YxdK-YxdJ (antimicrobial peptide response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11633
+E        K11634
+D      M00471  NarX-NarL (nitrate respiration) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07673
+E        K07684
+D      M00472  NarQ-NarP (nitrate respiration) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07674
+E        K07685
+D      M00473  UhpB-UhpA (hexose phosphates uptake) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07675
+E        K07686
+D      M00474  RcsC-RcsD-RcsB (capsule synthesis) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07677
+E        K07676
+E        K07687
+D      M00475  BarA-UvrY (central carbon metabolism) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07678
+E        K07689
+D      M00476  ComP-ComA (competence) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07680
+E        K07691
+D      M00477  EvgS-EvgA (acid and drug tolerance) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07679
+E        K07690
+D      M00478  DegS-DegU (multicellular behavior control) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07777
+E        K07692
+D      M00479  DesK-DesR (membrane lipid fluidity regulation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07778
+E        K07693
+D      M00480  VraS-VraR (cell-wall peptidoglycan synthesis) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07681
+E        K07694
+D      M00481  LiaS-LiaR (cell wall stress response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11617
+E        K11618
+D      M00482  DevS-DevR (redox response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07682
+E        K07695
+D      M00483  NreB-NreC (dissimilatory nitrate/nitrite reduction) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07683
+E        K07696
+D      M00484  YdfH-YdfI two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11623
+E        K11624
+D      M00485  KinABCDE-Spo0FA (sporulation control) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K02491
+E        K07697
+E        K07698
+E        K13532
+E        K13533
+E        K02490
+E        K07699
+D      M00486  CitA-CitB (citrate fermentation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07700
+E        K07702
+D      M00487  CitS-CitT (magnesium-citrate transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11637
+E        K11638
+D      M00488  DcuS-DcuR (C4-dicarboxylate metabolism) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07701
+E        K07703
+D      M00489  DctS-DctR (C4-dicarboxylate transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11691
+E        K11692
+D      M00490  MalK-MalR (malate transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11614
+E        K11615
+D      M00492  LytS-LytR two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07704
+E        K07705
+D      M00493  AlgZ-AlgR (alginate production) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K08082
+E        K08083
+D      M00494  NatK-NatR (sodium extrusion) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11640
+E        K11641
+D      M00495  AgrC-AgrA (exoprotein synthesis) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07706
+E        K07707
+D      M00496  ComD-ComE (competence) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K12294
+E        K12295
+D      M00497  GlnL-GlnG (nitrogen regulation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07708
+E        K07712
+D      M00498  NtrY-NtrX (nitrogen regulation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K13598
+E        K13599
+D      M00499  HydH-HydG (metal tolerance) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07709
+E        K07713
+D      M00500  AtoS-AtoC (cPHB biosynthesis) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07710
+E        K07714
+D      M00501  PilS-PilR (type 4 fimbriae synthesis) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K02668
+E        K02667
+D      M00502  GlrK-GlrR (amino sugar metabolism) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07711
+E        K07715
+D      M00503  PgtB-PgtA (phosphoglycerate transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K08475
+E        K08476
+D      M00504  DctB-DctD (C4-dicarboxylate transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K10125
+E        K10126
+D      M00505  KinB-AlgB (alginate production) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11383
+E        K11384
+D      M00506  CheA-CheYBV (chemotaxis) two-component regulatory system [PATH:map02020 map02030] [BR:ko02022 ko02030 ko02035]
+E        K03407
+E        K03413
+E        K03412
+E        K13924
+E        K03415
+D      M00507  ChpA-ChpB/PilGH (chemosensory) two-component regulatory system [PATH:map02020] [BR:ko02022 ko02035]
+E        K06596
+E        K02487
+E        K02657
+E        K02658
+E        K06597
+D      M00508  PixL-PixGH (positive phototaxis) two-component regulatory system [PATH:map02020] [BR:ko02022 ko02035]
+E        K11526
+E        K11522
+E        K11523
+D      M00509  WspE-WspRF (chemosensory) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K13490
+E        K11444
+E        K13491
+D      M00510  Cph1-Rcp1 (light response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K11354
+E        K11355
+D      M00511  PleC-PleD (cell fate control) two-component regulatory system [PATH:map02020 map04112] [BR:ko02022]
+E        K07716
+E        K11357
+E        K02488
+E        K11443
+E        K13591
+D      M00512  CckA-CtrA/CpdR (cell cycle control) two-component regulatory system [PATH:map02020 map04112] [BR:ko02022]
+E        K13587
+E        K13584
+E        K13589
+D      M00513  LuxQN/CqsS-LuxU-LuxO (quorum sensing) two-component regulatory system [PATH:map02020 map05111] [BR:ko02022]
+E        K10909
+E        K10916
+E        K10911
+E        K10912
+D      M00514  TtrS-TtrR (tetrathionate respiration) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K13040
+E        K13041
+D      M00515  FlrB-FlrC (polar flagellar synthesis) two-component regulatory system [PATH:map02020 map05111] [BR:ko02022]
+E        K10942
+E        K10943
+D      M00516  SLN1-YPD1-SSK1/SKN7 (osmosensing) two-component regulatory system [PATH:map02020 map04011] [BR:ko02022]
+E        K11231
+E        K19690
+E        K19691
+E        K19692
+E        K11232
+E        K11233
+E        K15859
+D      M00517  RpfC-RpfG (cell-to-cell signaling) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K10715
+E        K13815
+D      M00518  GlnK-GlnL (glutamine utilization) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07717
+E        K07719
+D      M00519  YesM-YesN two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K07718
+E        K07720
+D      M00520  ChvG-ChvI (acidity sensing) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K14980
+E        K14981
+D      M00521  CiaH-CiaR two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K14982
+E        K14983
+D      M00522  SalK-SalR two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K14988
+E        K14989
+D      M00523  RegB-RegA (redox response) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K15011
+E        K15012
+D      M00524  FixL-FixJ (nitrogen fixation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K14986
+E        K14987
+D      M00653  AauS-AauR (acidic amino acids utilization) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K17060
+E        K17061
+D      M00654  ParS-ParR (polymyxin-adaptive resistance) two-component regulatory system [PATH:map01501 map02020] [BR:ko02022]
+E        K18072
+E        K18073
+D      M00655  AdeS-AdeR two-component regulatory system [PATH:map01501] [BR:ko02022]
+E        K18143
+E        K18144
+D      M00656  VanS-VanR (VanB type vancomycin resistance) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K18345
+E        K18344
+D      M00657  VanS-VanR (VanE type vancomycin resistance) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K18350
+E        K18349
+D      M00658  VanS-VanR (actinomycete type vancomycin resistance) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K18351
+E        K18352
+D      M00662  Hk1-Rrp1 (glycerol uptake and utilization) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K02489
+E        K18444
+D      M00663  SsrA-SsrB two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K14978
+E        K14979
+D      M00716  ArlS-ArlR (virulence regulation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K18940
+E        K18941
+D      M00719  Ihk-Irr (virulence regulation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K18986
+E        K18987
+D      M00733  GraS-GraR (cationic antimicrobial peptide transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K19077
+E        K19078
+D      M00734  BraS-BraR (bacitracin transport) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K19081
+E        K19082
+D      M00770  PfeS-PfeR (enterobactin-dependent iron acquisition) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K19609
+E        K19610
+D      M00771  FitF-FitH (insecticidal toxin regulation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K19616
+E        K19617
+D      M00772  HupT-HupR (hydrogenase synthesis regulation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K19661
+E        K19641
+D      M00812  AgrC2-AgrA2 (virulence regulation) two-component regulatory system [BR:ko02022]
+E        K20339
+E        K20340
+D      M00816  NisK-NisR (lantibiotic biosynthesis) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K20487
+E        K20488
+D      M00818  FusK-FusR (virulence regulation) two-component regulatory system [PATH:map02020] [BR:ko02022]
+E        K20263
+E        K20264
+D      M00820  SagS-HptB-HsbR (swarming activity and biofilm formation) two-component regulatory system [PATH:map02020 map02025] [BR:ko02022]
+E        K20973
+E        K20974
+E        K20975
+E        K20976
+E        K20977
+D      M00839  PdtaS-PdtaR two-component regulatory system [BR:ko02022]
+E        K00936
+E        K22010
+B
+B  <b>Metabolism</b>
+C    Aminoacyl tRNA
+D      M00359  Aminoacyl-tRNA biosynthesis, eukaryotes [PATH:map00970]
+E        K01872
+E        K01887
+E        K01893
+E        K22503
+E        K01876
+E        K01883
+E        K01886
+E        K01885
+E        K01880
+E        K01892
+E        K01870
+E        K01869
+E        K04567
+E        K01874
+E        K01889
+E        K01890
+E        K01881
+E        K01875
+E        K01868
+E        K01867
+E        K01866
+E        K01873
+E        K14163
+D      M00360  Aminoacyl-tRNA biosynthesis, prokaryotes [PATH:map00970]
+E        K01872
+E        K01887
+E        K01893
+E        K01876
+E        K09759
+E        K01883
+E        K01886
+E        K01885
+E        K09698
+E        K01878
+E        K01879
+E        K14164
+E        K01880
+E        K01892
+E        K01870
+E        K01869
+E        K04567
+E        K04566
+E        K01874
+E        K01889
+E        K01890
+E        K01881
+E        K01875
+E        K01868
+E        K01867
+E        K01866
+E        K01873
+E        K07587
+E        K11627
+E        K01884
+C    Nucleotide sugar
+D      M00361  Nucleotide sugar biosynthesis, eukaryotes [PATH:map00520]
+E        K00963
+E        K01784
+E        K00972
+E        K00012
+E        K08678
+E        K00966
+E        K00971
+D      M00362  Nucleotide sugar biosynthesis, prokaryotes [PATH:map00520]
+E        K00963
+E        K00965
+E        K01784
+E        K17716
+E        K00972
+E        K04042
+E        K11528
+E        K01791
+E        K00012
+E        K00966
+E        K00971
+E        K16011
+E        K16881

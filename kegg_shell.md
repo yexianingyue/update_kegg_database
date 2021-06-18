@@ -1,10 +1,20 @@
 # KEGG UPDATE
-## 自己下载 网页源码 “https://www.kegg.jp/kegg/catalog/org_list.html”
 
+## 最后生成的文件
+最后生成的主要文件分别时
+ko00001.keg		#保存了pathway的从属关系
+ko00002.keg 	# 保存了module的从属关系
+kegg.fasta		# 最主要的文件，也就是数据库
+modules.map.reaction.merge		# 每个module的公式展开结果，每一行都是一个可能性
+modules.map.reaction			# 每个module的公式 就是Definition[https://www.genome.jp/dbget-bin/www_bget?md:M00017]
+
+
+
+## 几个主要的文件
 ```sh
-wget -O "org_list.html" "https://www.kegg.jp/kegg/catalog/org_list.html"
-wget -O "ko00001.keg" "https://www.kegg.jp/kegg-bin/download_htext?htext=ko00001.keg"   # download 改成get就是网页浏览
-wget -O "ko00002.keg" "https://www.kegg.jp/kegg-bin/download_htext?htext=ko00002.keg"
+wget -O "org_list.html" "https://www.kegg.jp/kegg/catalog/org_list.html"	# 很慢，可以自己从电脑下载，或者用命令行都行
+wget -O "ko00001.keg" "https://www.kegg.jp/kegg-bin/download_htext?htext=ko00001.keg&format=htext&filedir="  # download 改成get就是网页浏览
+wget -O "ko00002.keg" "https://www.kegg.jp/kegg-bin/download_htext?htext=ko00002.keg&format=htext&filedir="
 wget -O "br08610.keg" "https://www.kegg.jp/kegg-bin/download_htext?htext=br08610.keg&format=htext&filedir="
 ```
 
@@ -13,7 +23,7 @@ wget -O "br08610.keg" "https://www.kegg.jp/kegg-bin/download_htext?htext=br08610
 le org_list.html  | perl -e '$stat=0;while(<>){chomp;if($_=~/  <td align.*id="(.*)">/){$stat=1;$org=$1;next};if ($stat == 1){if ($_=~/  <td align=left.*href='"'"'\/dbget-bin\/www_bfind\?(.*?)'"'"'>(.*)<\/a><\/td>/){$org_ful="$1\t$2";next};if($_=~/.*ftp:\/\/ftp.*/){$_=~/(ftp:.*)'"'"'/;print "$org\t$org_ful\t$1\n";$stat=0;$org="",$org_ful="";next}}}' > KEGG.org
 ```
 
-## 生成下载蛋白序列的shell， 以及没有ko对应关系的物种，不管它，自己好奇想看也行
+## 生成下载蛋白序列的shell， 以及没有ko对应关系的物种【有时候可能是因为更新速度问题，有些没有对应关系的ko，后来也会慢慢有】
 ``` sh
 le KEGG.org | perl -e 'open out1, ">download_protein.sh";open out2, ">download.kegg.ko.sh";while(<>){chomp;@l=split/\t/; if ($l[1] eq ""){print "$l[0]\n"; next};@s=split("/", $l[3]); print out1 "wget --timeout 60 --tries 10 -O \"./NCBI-proteins/$l[0].pep.fasta.gz\"  \"$l[3]/$s[-1]_translated_cds.faa.gz\"\|\| rm \"./NCBI-proteins/$l[0].pep.fasta.gz\"\n"; print out2 "wget --timeout 60 --tries 10 -O  \"KEGG-KO/$l[0]00001.keg\" \"https://www.kegg.jp/kegg-bin/download_htext?htext=$l[0]00001.keg&format=htext&filedir=\" \|\| rm \"KEGG-KO/$l[0]00001.keg\" \n"}' > no_ko_org.list
 
@@ -57,23 +67,27 @@ wget -O KEGG-KO/smin00001.keg "https://www.kegg.jp/kegg-bin/download_htext?htext
 ```sh
 nohup parallel  -j 9 --joblog download_protein.run.log  < download_protein.sh  > download_protein.log 2>&1 &
 nohup parallel  -j 9 --joblog download.kegg.ko.run.log < download.kegg.ko.sh > download.kegg.ko.log 2>&1 &
+
+# nohup sh download_protein.run.log > download_protein.log 2>&1 & # 用于代替上方命令
+# nohup sh download.kegg.ko.run.log > download.kegg.ko.log 2>&1 & # 用于代替上方命令
 ```
 
 #### 格式化蛋白序列
 ```sh
-nohup cut -f 1 KEGG.org | parallel --joblog ko-proteins.run.log  -j 30 ./process_proteins.py --org {} --keg KEGG-KO/{}00001.keg --pep NCBI-proteins/{}.pep.fasta --out KO-proteins/{}.ko.fasta > log&
+nohup cut -f 1 KEGG.org | parallel --joblog ko-proteins.run.log  -j 30 python ./script/process_proteins.py --org {} --keg KEGG-KO/{}00001.keg --pep NCBI-proteins/{}.pep.fasta --out KO-proteins/{}.ko.fasta > log&
 ```
 
 #### 生成module通路
 ```sh
 grep "^D" ko00002.keg| perl -ne 'chomp;@l=split/\s+/;print "wget --timeout 60 --tries 10  -O ./modules.map/$l[1].html \"https://www.genome.jp/dbget-bin/www_bget?md:$l[1]\"\n"' |  parallel -j 32  --joblog ./modules.run.log &
 parallel --retry-failed --joblog modules.run.log
+# grep "^D" ko00002.keg| perl -ne 'chomp;@l=split/\s+/;print "wget --timeout 60 --tries 10  -O ./modules.map/$l[1].html \"https://www.genome.jp/dbget-bin/www_bget?md:$l[1]\"\n"' |  sh &
 ```
 #### 生成module的通路，用于计算module的完整性
 ```sh
-ls modules.map/*.html | parallel --plus  -j 32 sh modules.map.parse.sh {}  {/..} > modules.map.list # 生成map 列表
+ls modules.map/*.html | parallel --plus  -j 32 sh ./script/modules.map.parse.sh {}  {/..} > modules.map.list # 生成map 列表
 sed 's/<wbr>//g' modules.map.list | sed 's/ --//g' | sed 's/-- //g' > modules.map.list.f;mv modules.map.list.f modules.map.list
-./kegg_module_breaker.pl modules.map.list modules.map.reaction
+perl ./script/kegg_module_breaker.pl modules.map.list modules.map.reaction
 ```
 
 #### 这一步可以不做
