@@ -1,13 +1,13 @@
 # KEGG UPDATE
 
 ## 最后生成的文件
-最后生成的主要文件分别时
+```
 ko00001.keg		#保存了pathway的从属关系
 ko00002.keg 	# 保存了module的从属关系
 kegg.fasta		# 最主要的文件，也就是数据库
 modules.map.reaction.merge		# 每个module的公式展开结果，每一行都是一个可能性
 modules.map.reaction			# 每个module的公式 就是Definition[https://www.genome.jp/dbget-bin/www_bget?md:M00017]
-
+```
 
 
 ## 几个主要的文件
